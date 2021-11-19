@@ -1,0 +1,13 @@
+.vscode
+.DS_Store
+*/**/input*
+*/**/output*
+*/**/*.pdf
+.idea
+.vscode
+Homework1/problem5/normal_input_100
+Homework1/problem5/normal_input_1000
+Homework1/problem5/normal_input_10000
+Homework1/problem5/uniform_input_100
+Homework1/problem5/uniform_input_1000
+Homework1/problem5/uniform_input_10000
